@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 ,BTV
+http://103.229.254.25:7001/play/a064/index.m3u8
+#EXTINF:-1 ,BTV Chattagram
+http://103.229.254.25:7001/play/a061/index.m3u8
+#EXTINF:-1 ,BTV News
+http://103.229.254.25:7001/play/a065/index.m3u8
+#EXTINF:-1 ,Ssngsad Bangla
+http://103.229.254.25:7001/play/a069/index.m3u8
+#EXTINF:-1 ,DBC News
+http://103.229.254.25:7001/play/a06h/index.m3u8
+#EXTINF:-1 ,Somoy TV
+http://103.175.242.10:8080/somoy/index.m3u8
+#EXTINF:-1 ,News 24
+http://103.229.254.25:7001/play/a06i/index.m3u8
+#EXTINF:-1 ,ATN News
+http://103.229.254.25:7001/play/a05u/index.m3u8
+#EXTINF:-1 ,Jamuna TV
+http://103.175.242.10:8080/jamuna/index.m3u8
+#EXTINF:-1 ,GTV
+http://103.229.254.25:7001/play/a06t/index.m3u8
+#EXTINF:-1 ,TSports
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 ,NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+#EXTINF:-1 ,Maasranga TV
+http://103.229.254.25:7001/play/a05q/index.m3u8
+#EXTINF:-1 ,Ekattor TV
+http://103.175.242.10:8080/ekattor/index.m3u8
+#EXTINF:-1 ,Ekushey TV         
+http://103.229.254.25:7001/play/a05x/index.m3u8
+#EXTINF:-1 ,ATN Bangla
+http://103.175.242.10:8080/atnbangla/index.m3u8
+#EXTINF:-1 ,Channel 24
+http://103.175.242.10:8080/channel24/index.m3u8
+#EXTINF:-1 ,Independent TV
+http://103.175.242.10:8080/independent/index.m3u8
+#EXTINF:-1 ,Channel I
+http://103.175.242.10:8080/channeli/index.m3u8
+#EXTINF:-1 ,RTV
+http://103.229.254.25:7001/play/a068/index.m3u8
+#EXTINF:-1 ,SA TV
+http://103.229.254.25:7001/play/a062/index.m3u8
+#EXTINF:-1 ,Bangla Vision
+http://103.175.242.10:8080/banglavision/index.m3u8
+#EXTINF:-1 ,Desh TV
+http://103.229.254.25:7001/play/a05s/index.m3u8
+#EXTINF:-1 ,Boishakhi TV
+http://103.229.254.25:7001/play/a067/index.m3u8
+#EXTINF:-1 ,Channel 9
+http://103.229.254.25:7001/play/a05j/index.m3u8
+#EXTINF:-1 ,NEXUS TV
+http://103.229.254.25:7001/play/a05m/index.m3u8
+#EXTINF:-1 ,Channel S
+http://103.229.254.25:7001/play/a060/index.m3u8
+#EXTINF:-1 ,MY TV
+http://103.229.254.25:7001/play/a05z/index.m3u8
+#EXTINF:-1 ,Asian TV
+http://103.229.254.25:7001/play/a063/index.m3u8
+#EXTINF:-1 ,GLOBAL TV
+http://103.229.254.25:7001/play/a05o/index.m3u8
+#EXTINF:-1 ,Bangla TV
+http://103.229.254.25:7001/play/a06c/index.m3u8
+#EXTINF:-1 ,Mohona TV
+http://103.229.254.25:7001/play/a05t/index.m3u8
+#EXTINF:-1 ,Nagarik TV
+http://103.229.254.25:7001/play/a06q/index.m3u8
+#EXTINF:-1 ,PeaceTV BN
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+#EXTINF:-1 ,Mizanur Rahman Ajhari
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
